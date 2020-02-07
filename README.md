@@ -1,3 +1,18 @@
+[Главная](http://ict.herzen.spb.ru/)  
+[Абитуриенту](http://ict.herzen.spb.ru/enrollee)  
+* [Кафедра](http://ict.herzen.spb.ru/department)
+* [О кафедре](http://ict.herzen.spb.ru/department/about-us)
+* [Завкафедрой](http://ict.herzen.spb.ru/department/employees/person/vlasova-e-z)
+* [Сотрудники](http://ict.herzen.spb.ru/department/employees)
+* [Выпускники](http://ict.herzen.spb.ru/department/graduates)
+* [Наши разработки](http://ict.herzen.spb.ru/department/development)
+* [Документы](http://ict.herzen.spb.ru/department/documents)
+
+* [Образовательная программа](http://ict.herzen.spb.ru/activity/educational-program)
+* [Электронное обучение](http://ict.herzen.spb.ru/activity/e-learning)
+* [Электронная библиотека](http://ict.herzen.spb.ru/activity/digital-library)
+* [Практика](http://ict.herzen.spb.ru/activity/practice)
+* [ВКР](http://ict.herzen.spb.ru/activity/vkr)
 # <p align='center'> О КАФЕДРЕ </p>
 
 У кафедры информационных технологий и электронного обучения богатая история. Она началась в 1925 г. с основания методического кабинета «Учебное кино», созданного при кинолектории ЛГПИ им. А.И. Герцена.

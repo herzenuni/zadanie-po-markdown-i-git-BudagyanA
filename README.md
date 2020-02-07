@@ -6,8 +6,7 @@
 * [Сотрудники](http://ict.herzen.spb.ru/department/employees)
 * [Выпускники](http://ict.herzen.spb.ru/department/graduates)
 * [Наши разработки](http://ict.herzen.spb.ru/department/development)
-* [Документы](http://ict.herzen.spb.ru/department/documents)
-
+* [Документы](http://ict.herzen.spb.ru/department/documents)  
 * [Образовательная программа](http://ict.herzen.spb.ru/activity/educational-program)
 * [Электронное обучение](http://ict.herzen.spb.ru/activity/e-learning)
 * [Электронная библиотека](http://ict.herzen.spb.ru/activity/digital-library)

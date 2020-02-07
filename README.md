@@ -48,6 +48,6 @@
 
 ![alt text](https://ict.herzen.spb.ru/user/themes/bootstrap/images/master-photos/DSCN0951.JPG)
 ## Контакты
-ctel-herzen@yandex.ru  
+![alt text](https://ict.herzen.spb.ru/user/themes/bootstrap/images/Mail.png)ctel-herzen@yandex.ru  
 [Санкт-Петербург, наб. реки Мойки 48, корпус 1, аудитория 329](https://www.google.ru/maps/place/1+%D0%BA%D0%BE%D1%80%D0%BF%D1%83%D1%81/@59.9340622,30.316832,17z/data=!4m8!1m2!2m1!1z0KHQsNC90LrRgi3Qn9C10YLQtdGA0LHRg9GA0LMsINC90LDQsS4g0YDQtdC60Lgg0JzQvtC50LrQuCwgNDgsINC60L7RgNC_0YPRgSAx!3m4!1s0x0:0xde67d372394025c!8m2!3d59.9327881!4d30.3181256)  
 +7 (812) 643-77-67

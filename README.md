@@ -16,6 +16,7 @@
 * [Проекты](http://ict.herzen.spb.ru/science/projects)
 * [Конференции](http://ict.herzen.spb.ru/science/conferences)
 * [Публикации](http://ict.herzen.spb.ru/science/publications)  
+
 [События](http://ict.herzen.spb.ru/events)  
 [Медиазал](http://ict.herzen.spb.ru/media-room)  
 [Партнёры](http://ict.herzen.spb.ru/partners)  

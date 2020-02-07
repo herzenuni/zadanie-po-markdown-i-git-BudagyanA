@@ -12,6 +12,13 @@
 * [Электронная библиотека](http://ict.herzen.spb.ru/activity/digital-library)
 * [Практика](http://ict.herzen.spb.ru/activity/practice)
 * [ВКР](http://ict.herzen.spb.ru/activity/vkr)
+* [НИР студентов](http://ict.herzen.spb.ru/science/research-work)
+* [Проекты](http://ict.herzen.spb.ru/science/projects)
+* [Конференции](http://ict.herzen.spb.ru/science/conferences)
+* [Публикации](http://ict.herzen.spb.ru/science/publications)
+[События](http://ict.herzen.spb.ru/events)  
+[Медиазал](http://ict.herzen.spb.ru/media-room)  
+[Партнёры](http://ict.herzen.spb.ru/partners)  
 # <p align='center'> О КАФЕДРЕ </p>
 
 У кафедры информационных технологий и электронного обучения богатая история. Она началась в 1925 г. с основания методического кабинета «Учебное кино», созданного при кинолектории ЛГПИ им. А.И. Герцена.
